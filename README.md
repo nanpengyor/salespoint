@@ -1,10 +1,10 @@
 # salespoint
 C++/Qt based point of sale application
 ----------------------------------------------------------------
-salespoint is a point of sale (POS) system designed and developed 
-by Inteligy Software Enterprise (InteligyWare). It was inspired 
+**salespoint**  is a point of sale (**POS**) system designed and developed 
+by *Inteligy Software Enterprise (InteligyWare)*. It was inspired 
 by Sage (Developped by Sage) and nTPV (An open source POS developped 
-by Napsis Corp). salespoint is developped to provide an open source 
+by Napsis Corp). **salespoint** is developped to provide an open source 
 alternative to sage.
 
 It was initially designed to manage restaurants, bars, cafes, 
