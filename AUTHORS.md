@@ -15,4 +15,4 @@
 
 # More Greetings to comunity projects
 	Qt project (specially to Nokia)
-	[PostgreSQL](http://www.postgresql.org)
+	PostgreSQL (http://www.postgresql.org)
