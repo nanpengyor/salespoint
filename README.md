@@ -15,6 +15,7 @@ easy-to-use interface. Its high modularity and scalability makes it easy to
 enhance and mantain.
 
 InteligyWare provides other plugins that add more features to the POS systems like:
+
 	[ DCOPFX2000 ] Biometric fingerprint autentication of waiters and users.
 	[ DCOPRECEIPT ] Easy use of orders, tables, and invoice saving... no more ordering notebooks are needed
 	[ DCOPREPORTS ] Reports generated with this plugin allows to obtain information to increase benefits.

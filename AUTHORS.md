@@ -2,8 +2,8 @@ Gilles Bene Pougoue <gilles@inteligyware.com>
 Aboubakar Nkouandou <aboubakar@inteligyware.com>
 
 
-SalesPoint Staff
---------
+salespoint staff
+----------------
 Project Leader: Gilles Bene Pougoue
 Database Design : Gilles Bene Pougoue
 Web platform Programmer: Aboubakar Nkouandou
