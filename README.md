@@ -24,7 +24,7 @@ Currently all these modules except DCOPFX2000 have been released with this sourc
 If you are interested on the Biometric fingerprint autentication, please send a mail to <benes@inteligyware.com>
 
 libraries needed to compile salespoint
---------------------------------
+--------------------------------------
 
 	- libgdchart (http://www.fred.net/brv/chart/)
 	- qt5 (www.qt.io))
@@ -35,7 +35,7 @@ libraries needed to compile salespoint
 
 
 Installing salespoint  (Quick method.)
-----------------------------------
+--------------------------------------
 
 salespoint now uses QMake package generation thanks to Trolltech. 
 It's very simple and quick to compile and install salespoint. 
@@ -59,16 +59,16 @@ As root, type:
 
 And that's all.
 
-Cleaning all sources.
-----------------------
+Cleaning all sources
+--------------------
 
 As user type:
 
 	make clean
 
 
-Uninstalling salespoint.
-------------------
+Uninstalling salespoint
+-----------------------
 
 As root, type:
 
